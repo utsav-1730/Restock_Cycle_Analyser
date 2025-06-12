@@ -1,8 +1,4 @@
----
-noteId: "17faa41046f111f0a153433b57e06624"
-tags: []
 
----
 
 
 # 📦 Walmart Logistics & Stockout Dashboard
